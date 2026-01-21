@@ -685,7 +685,7 @@ export const DESCRIPTIONS = {
 		type: 'boolean',
 		default: true,
 		description:
-			'If enabled, returns data as binary attachment. If disabled, returns JSON with base64-encoded data.',
+			'Whether returns data as binary attachment. If disabled, returns JSON with base64-encoded data.',
 	},
 
 	DOWNLOAD_RESOURCE: {
