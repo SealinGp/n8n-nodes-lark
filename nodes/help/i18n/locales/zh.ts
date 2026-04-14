@@ -167,4 +167,5 @@ export const WORDING_ZH: IWording = {
 	ResourceContacts: '通讯录',
 	ResourceSpreadsheet: '表格',
 	ResourceCalendar: '日历',
+	ResourceWiki: '知识空间',
 };

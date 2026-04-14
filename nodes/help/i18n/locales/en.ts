@@ -167,4 +167,5 @@ export const WORDING_EN: IWording = {
 	ResourceContacts: 'Contacts',
 	ResourceSpreadsheet: 'Spreadsheet',
 	ResourceCalendar: 'Calendar',
+	ResourceWiki: 'Wiki',
 };
